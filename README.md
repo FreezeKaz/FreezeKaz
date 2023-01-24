@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Tom</h1>
-- 🔭 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#**
+
+- 🤝 About me : **I like sports, gaming, coding and Animes.**
+
+- 📫 How to reach me **tom.legros564@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
