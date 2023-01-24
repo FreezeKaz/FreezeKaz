@@ -1,11 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Tom</h1>
-- 🌱 I’m currently learning **C#**
+
+
 
 - 🤝 About me : **I like sports, gaming, coding and Animes.**
-
-- 📫 How to reach me **tom.legros564@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+
+-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg)" alt="python" width="40" height="40"/> Mail : **tom.legros564@gmail.com**
+
+
 <p align="left">
 </p>
 
