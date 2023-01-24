@@ -5,7 +5,7 @@
 - 🤝 About me : **I like sports, gaming, coding and Animes.**
 <h3 align="left">Connect with me:</h3>
 
--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg)" alt="python" width="40" height="40"/> Mail : **tom.legros564@gmail.com**
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="python" width="40" height="40"/> Mail : **tom.legros564@gmail.com**
 
 
 <p align="left">
