@@ -1,4 +1,4 @@
-## Hey there I'm Tom 👋+
+## Hey there I'm Tom 👋
 
 - 📚 I'm learning C#
 - 💼 I'm currently a second year student at the Gaming Tech school
