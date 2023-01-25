@@ -21,6 +21,7 @@
 <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/git-icon.svg" alt="react" width="40" height="40"/></img>
 <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/github-icon.svg" alt="react" width="40" height="40"/></img>
 <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/visual-studio.svg" alt="react" width="40" height="40"/></img>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" alt="react" width="40" height="40"/></img>
 
 
 - ⏳ - <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></img>
