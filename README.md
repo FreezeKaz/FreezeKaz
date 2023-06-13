@@ -37,7 +37,7 @@
 
 ### Contact me 💬
 
-- <img align="center" alt="Discord" title="Discord" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/discord.svg" /> - FreezeKaz#5477
+- <img align="center" alt="Discord" title="Discord" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/discord.svg" /> - freezekaz
 - <img align="center" alt="Gmail" title="Email" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/google-gmail.svg" /> - tom.legros564@gmail.com
 
 
