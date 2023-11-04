@@ -1,7 +1,7 @@
 ## Hey there I'm Tom 👋
 
 - 📚 I'm learning C#
-- 💼 I'm currently a second year student at the Gaming Tech school
+- 💼 I'm currently a third year student at the Gaming Tech school
 - ⚡ About me: I love sport, gaming and coding and Animes
 
 ---
