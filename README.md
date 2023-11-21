@@ -33,6 +33,7 @@
 <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/visual-studio.svg" alt="react" width="40" height="40"/></img>
 <img align="center" src="https://devicons.railway.app/i/strapi.svg" alt="strapi" width="40" height="40"/></img>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></img>
+<img align="center" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg)" alt="mysql" width="40" height="40"/></img>
 
 ---
 
