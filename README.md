@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tom</h1>
-<h3 align="center">Unity Developer | Gameplay Programmer | Game Tech Student</h3>
+<h3 align="center">Unity Developer | Gameplay Programmer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&style=for-the-badge" />
