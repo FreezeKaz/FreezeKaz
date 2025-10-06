@@ -11,9 +11,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Recently graduated from a  **Game Development Bachelor**
-- 🎮 Specialized in **Unity development** with a focus on **2D casual games**, **optimization**, and **tool development**
+- 🎓 Graduated from a  **Game Development Bachelor**
+- 🎮 Specialized in **Unity development** with a focus on **casual games**, **optimization**, and **tool development**
 - 🛠 Strong background in building reusable systems for designers and developers
+- 📊 Skilled in KPI analysis and performance evaluation to improve gameplay and user engagement
 - 🗂 Experienced in **collaborative projects**, both remote and on-site, using Agile methodologies
 - 🌍 Currently open to opportunities in **gameplay programming** and **Unity development roles**
 
